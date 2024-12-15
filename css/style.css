@@ -1,0 +1,33 @@
+/* Center the content with a specific width and margin */
+.content {
+    margin: 5% auto;
+    width: 75%;
+}
+
+/* Align the image to the left */
+.left-aligned {
+    float: left;
+    margin-right: 10px; /* Optional: add some space between the image and the text */
+}
+
+/* Clear the float to start the paragraph below the image */
+.clear {
+    clear: both;
+}
+
+
+/* Align the image to the left */
+.left-aligned {
+    float: left;
+    margin-right: 10px; /* Optional: add some space between the image and the text */
+}
+
+/* Increase the font size of the paragraphs */
+p {
+    font-size: 1.5em; /* Adjust the value as needed */
+}
+
+/* Add a blank line below the image */ 
+.blank-line { 
+    height: 10px; /* Adjust the height to set the amount of space */ 
+}
